@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B84609F2-19EA-48BA-84B1-CBBC876414F5}|Project\\Project.csproj|c:\\users\\admin\\source\\repos\\project\\project\\controllers\\topiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B84609F2-19EA-48BA-84B1-CBBC876414F5}|Project\\Project.csproj|solutionrelative:project\\controllers\\topiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B84609F2-19EA-48BA-84B1-CBBC876414F5}|Project\\Project.csproj|C:\\Users\\Admin\\source\\repos\\Project\\project\\controllers\\topicchangerequestscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B84609F2-19EA-48BA-84B1-CBBC876414F5}|Project\\Project.csproj|solutionrelative:project\\controllers\\topicchangerequestscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B84609F2-19EA-48BA-84B1-CBBC876414F5}|Project\\Project.csproj|C:\\Users\\Admin\\source\\repos\\Project\\project\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B84609F2-19EA-48BA-84B1-CBBC876414F5}|Project\\Project.csproj|solutionrelative:project\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B84609F2-19EA-48BA-84B1-CBBC876414F5}|Project\\Project.csproj|C:\\Users\\Admin\\source\\repos\\Project\\project\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B84609F2-19EA-48BA-84B1-CBBC876414F5}|Project\\Project.csproj|solutionrelative:project\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B84609F2-19EA-48BA-84B1-CBBC876414F5}|Project\\Project.csproj|C:\\Users\\Admin\\source\\repos\\Project\\project\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B84609F2-19EA-48BA-84B1-CBBC876414F5}|Project\\Project.csproj|solutionrelative:project\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B84609F2-19EA-48BA-84B1-CBBC876414F5}|Project\\Project.csproj|c:\\users\\admin\\source\\repos\\project\\project\\controllers\\committeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B84609F2-19EA-48BA-84B1-CBBC876414F5}|Project\\Project.csproj|solutionrelative:project\\controllers\\committeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Project\\Project\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "Project\\Models\\Account.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Project\\Project\\Models\\Account.cs",
+              "RelativeToolTip": "Project\\Models\\Account.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T18:01:21.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TopicChangeRequestsController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Project\\Project\\Controllers\\TopicChangeRequestsController.cs",
+              "RelativeDocumentMoniker": "Project\\Controllers\\TopicChangeRequestsController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Project\\Project\\Controllers\\TopicChangeRequestsController.cs",
+              "RelativeToolTip": "Project\\Controllers\\TopicChangeRequestsController.cs",
+              "ViewState": "AQIAALoAAAAAAAAAAAAmwOAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T22:06:33.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TopicController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Project\\Project\\Controllers\\TopicController.cs",
+              "RelativeDocumentMoniker": "Project\\Controllers\\TopicController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Project\\Project\\Controllers\\TopicController.cs",
+              "RelativeToolTip": "Project\\Controllers\\TopicController.cs",
+              "ViewState": "AQIAADoBAAAAAAAAAAAiwE8BAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T07:59:02.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CommitteeController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Project\\Project\\Controllers\\CommitteeController.cs",
+              "RelativeDocumentMoniker": "Project\\Controllers\\CommitteeController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Project\\Project\\Controllers\\CommitteeController.cs",
+              "RelativeToolTip": "Project\\Controllers\\CommitteeController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAA1wCEAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T04:39:33.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Project\\Project\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Project\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Project\\Project\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Project\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAABwBAAAAAAAAAAAIwEoBAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T20:16:36.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TeacherController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Project\\Project\\Controllers\\TeacherController.cs",
+              "RelativeDocumentMoniker": "Project\\Controllers\\TeacherController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Project\\Project\\Controllers\\TeacherController.cs",
+              "RelativeToolTip": "Project\\Controllers\\TeacherController.cs",
+              "ViewState": "AQIAAFMBAAAAAAAAAAAQwGcBAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T18:15:26.978Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

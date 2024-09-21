@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\PublicProject</_PublishTargetUrl>
+    <History>True|2024-08-20T10:59:34.2186226Z;True|2024-08-20T17:56:56.2694772+07:00;True|2024-08-20T17:46:52.9764129+07:00;True|2024-08-20T17:42:54.1685933+07:00;True|2024-08-20T17:29:07.1083277+07:00;True|2024-08-20T17:24:12.0118900+07:00;True|2024-08-13T14:03:11.8845774+07:00;True|2024-08-13T14:01:20.3562413+07:00;</History>
+    <LastFailureDetails />
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="Connections">
+      <Value>Data Source=Hynhine%3bInitial Catalog=Manager%3bPersist Security Info=True%3bUser ID=sa%3bPassword=123123%3bEncrypt=True%3bTrusted_Connection=True%3bTrustServerCertificate=True</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>
